@@ -1,2 +1,0 @@
-# Hamburger
-Created with CodeSandbox
